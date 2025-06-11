@@ -1,0 +1,1 @@
+"""\nMódulo de configurações - FASE 2C\n"""
